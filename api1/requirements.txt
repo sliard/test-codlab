@@ -1,0 +1,7 @@
+configparser
+datetime
+csv
+requests
+os
+time
+pandas
